@@ -1,0 +1,14 @@
+{
+  "name": "twitter-js-2",
+  "version": "1.0.0",
+  "description": "review of twitter js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "arinchoi03",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
